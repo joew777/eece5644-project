@@ -7,4 +7,6 @@ I used the dataset titled "gl2025.txt", which was located in a folder called "gl
 
 If you wish to use the models on the same dataset but don't have the same path (folder-->dataset), that should be the only change you need to make.
 
+GuideSheet.txt helps a user interpret the raw dataset.
+
 Thank you.
